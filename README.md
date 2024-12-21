@@ -1,6 +1,10 @@
+This is a svelte learning code as explained here: https://svelte.dev/docs/svelte
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+
 
 ## Creating a project
 
